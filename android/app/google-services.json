@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "925484043817",
+    "project_id": "codelab-3-rafi",
+    "storage_bucket": "codelab-3-rafi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:925484043817:android:e97a58eb8752117fd8d638",
+        "android_client_info": {
+          "package_name": "com.example.codelab_3"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPa2wymhXd5ILrprFAFMjsV2-vewREtbw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
